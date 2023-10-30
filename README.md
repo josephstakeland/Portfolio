@@ -4,6 +4,7 @@
 
 <p align=""><img src="https://i.ibb.co/gFjP7Vw/msedge-58-Sr-H9-A9-Ag.png" alt="msedge-58-Sr-H9-A9-Ag" border="0"></p>
 
+<a target="_blank" href="https://josephstakeland.github.io/Portfolio/index.html">click here to see Demo</a>
 ### **[click here to see Demo](https://josephstakeland.github.io/Portfolio/index.html)**.
 
 <hr>
